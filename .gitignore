@@ -1,4 +1,5 @@
 #ignorar archivo de notas
 .notes.txt
+.extensiones_visualstudio_bootcamp_IA.txt
 #ignorar carpeta de environment de python
 ./venv_bootcamp_IA/
