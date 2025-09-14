@@ -1,0 +1,4 @@
+#ignorar archivo de notas
+.notes.txt
+#ignorar carpeta de environment de python
+./venv_bootcamp_IA/
